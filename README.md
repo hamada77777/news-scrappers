@@ -3,19 +3,19 @@ a news scrapper that scrap major headlines.
 News scrapper
 This is my first project in python .
 
-Instalation
+##Instalation:
 
 
 This was tested with Python 3.10
 
-To install dependencies:
+##To install dependencies:
 
 pip install -BeautifulSoup
 
 
 pip  install -request
 
-Usage:
+##Usage:
 
 
 just answer the question with one of the three answers given.
